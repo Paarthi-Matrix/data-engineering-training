@@ -1,0 +1,8 @@
+.idea
+/pycache/*
+__pycache__/
+*.pyo
+*.pyc
+*.pyd
+*.py[cod]
+.env
